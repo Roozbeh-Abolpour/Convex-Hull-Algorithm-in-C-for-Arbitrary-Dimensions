@@ -10,7 +10,7 @@ It supports point clouds in **arbitrary dimensions**.
 - Incremental convex hull construction.
 - Memory-safe and well-structured.
 
-## Build
 
-```bash
-make
+## Usage
+ convexhull* cvh = convh(points);
+
